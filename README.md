@@ -2,6 +2,8 @@
 
 I am using this fork tochange ML-Base as I follow along with Coursera ML class (https://class.coursera.org/ml-004/class/index)
 
+See: https://github.com/AustinBGibbons/Coursera-MLBase
+
 # Apache Spark
 
 Lightning-Fast Cluster Computing - <http://spark.incubator.apache.org/>
